@@ -45,3 +45,11 @@ This is the hw04 sample. Please follow the steps below.
 --------------------
 
 Take your note here if you want. (Optional)
+--------------------
+HW04
+===
+
+###process
+1. USER_Button -->  PA0
+2. Enabled portA RCC
+3. PA0 --> Input mode
